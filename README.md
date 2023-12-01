@@ -7,7 +7,8 @@ I'm mostly interested in backend development and test automation, but I love to 
 
 I’m currently learning: **Python, Java**
 <br/><br/>
-Connect with me: www.linkedin.com/in/chisommgbedike 
+<h3>Connect with me:</h3>
+<h4><a href="www.linkedin.com/in/chisommgbedike" target="_blank">www.linkedin.com/in/chisommgbedike</a></h4> 
 <br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 
