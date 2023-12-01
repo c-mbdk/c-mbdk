@@ -12,8 +12,6 @@ I’m currently learning: **Python, Java**
 <a href="https://linkedin.com/in/chisommgbedike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chisommgbedike" height="30" width="40" /></a>
 </p>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages</h4>
