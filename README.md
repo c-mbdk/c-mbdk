@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisom!</h1>
-<h3 align="center">A data analyst turned software engineer.</h3>
+<h3 align="center">A technical business analyst turned software engineer.</h3>
 
 I started my career in data migration, but now I focus on building solutions and solving problems as a software engineer. 
 
